@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherForecast</string>
+    <string name="search_button">Get Weather Report</string>
+    <string name="hint_search_text">Enter City Name</string>
+    <string name="date_time_text">Sunday 2 PM</string>
+    <string name="text_temp">Temp</string>
+    <string name="text_temp_mim">300.01</string>
+    <string name="text_temp_max">300.01</string>
+    <string name="text_feelslike">feels-like</string>
+    <string name="text_wind">wind</string>
+    <string name="text_city_name">xyz</string>
+    <string name="text_cloud_type">Showers</string>
+</resources>
