@@ -60,7 +60,7 @@
         android:layout_marginEnd="24dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        tools:srcCompat="@tools:sample/avatars" />
+        android:background="@drawable/cloudy_cloudy" />
 
     <TextView
         android:id="@+id/text_cloud_type"
